@@ -1,11 +1,9 @@
-# Hi 👋, I'm Antoine COMBET
+# Hi, I'm Antoine COMBET
 **An IT student in France**
-
-- 🌱 I’m currently learning **Elm**
 
 - 👨‍💻 All of my projects are available at [my github repository list](https://github.com/Annwan?tab=repositories)
 
-- 📫 How to reach me **anwankong@gmail.com**
+- 📫 How to reach me **antoine.combet@etu.univ-lyon1.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
