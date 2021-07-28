@@ -13,7 +13,7 @@ I also tried a bunch of unusual/esoteric/obsolete langages including, but not li
 
 ## My projects
 
-Anything worth looking at is in the repoitories tab above this text
+Anything worth looking at is pinned below this text
 
 ## Plans
 
