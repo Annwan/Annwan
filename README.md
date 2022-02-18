@@ -13,10 +13,16 @@ I also tried a bunch of unusual/esoteric/obsolete langages including, but not li
 
 ## My projects
 
-Anything worth looking at is pinned below this text
+Anything worth looking at on github is pinned below this text, you can also have a look in the repositories tab.
+
+I also have a [self hosted gitea instance](https://git.annwan.me/Annwan) with more projects there.
 
 ## Plans
 
 - Learn more unusual/esoteric/obsolete languages
-- Finaly work out how in the universe windows works
-- Do more stupid projects
+- Finaly work out how in the universe the Win32 API works
+- Do more ~~stupid~~ ~~useless~~ random projects
+
+## Contacting me
+
+I can be contacted by email at [contact@annwan.me](mailto:contact@annwan.me)
