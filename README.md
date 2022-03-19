@@ -25,4 +25,4 @@ I also have a [self hosted gitea instance](https://git.annwan.me/Annwan) with mo
 
 ## Contacting me
 
-I can be contacted by email at [contact@annwan.me](mailto:contact@annwan.me)
+I can be contacted by email at [annwan@annwan.me](mailto:annwan@annwan.me)
